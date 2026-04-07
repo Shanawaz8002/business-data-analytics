@@ -1,10 +1,9 @@
 # Business Data Analytics (Beginner)
 ### Dashboard Visuals
-|:---|:---|
-
+1.Little_Twins_Dashboard.
 |![Dashboard 1](Little_Twins_Sales_Performance_Dashboard.png)
-|
 
+2.Practice_Dashboard
 ![Dashboard 2](Practice_SalesData.png)
 |
 
