@@ -1,5 +1,7 @@
 # Business Data Analytics (Beginner)
-
+### Dashboard Visuals
+![Sales Dashboard](Littlt_Twins_Sales_Performance_Dashboard.png)
+![Sales Dashboard](Practice_SalesData.png)
 Hi, I'm Shahnawaz Khan 👋  
 Master’s student in Digital Technologies & Management (Germany)
 
