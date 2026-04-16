@@ -1,13 +1,16 @@
 # Business Data Analytics (Beginner)
 ### Dashboard Visuals
-1.Interactive_Sales_Dashboard.
-|![Dashboard1](Interactive_Sales_Dashboard.png)
+1.Pizza_Sales_Dashboard.
+|![Dashboard 1](Pizza Sales Dashboard.png)
 
-2.Little_Twins_Dashboard.
-|![Dashboard 2](Little_Twins_Sales_Performance_Dashboard.png)
+2.Interactive_Sales_Dashboard.
+|![Dashboard 2](Interactive_Sales_Dashboard.png)
 
-3.Practice_Dashboard
-![Dashboard 3](Practice_SalesData.png)
+3.Little_Twins_Dashboard.
+|![Dashboard 3](Little_Twins_Sales_Performance_Dashboard.png)
+
+4.Practice_Dashboard
+![Dashboard 4](Practice_SalesData.png)
 
 {
 This project is an interactive dashboard built in Excel.
