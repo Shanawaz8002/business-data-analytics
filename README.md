@@ -22,6 +22,7 @@ This project is an interactive dashboard built in Excel.
 
 ## 🔹 Tools Used
 - Microsoft Excel
+- SQL Server Management
 }
 |
 
