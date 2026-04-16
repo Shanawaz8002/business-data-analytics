@@ -1,7 +1,7 @@
 # Business Data Analytics (Beginner)
 ### Dashboard Visuals
 1.Pizza_Sales_Dashboard.
-|![Dashboard 1](Pizza_Sales.png)
+|![Dashboard 1](Pizza_Sales .png)
 
 2.Interactive_Sales_Dashboard.
 |![Dashboard 2](Interactive_Sales_Dashboard.png)
